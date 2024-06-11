@@ -1,3 +1,5 @@
+# Scratchpad
+
 Git Basics
 Git History
 Collaborate Using Git
